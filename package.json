@@ -10,12 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "consign": "^0.1.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.95.4",
     "lodash": "^4.17.21",
+    "password-validator": "^5.1.1",
     "pg": "^8.5.1"
   }
 }
